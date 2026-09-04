@@ -1,4 +1,4 @@
-# Hello, eu sou a Letícia.
+# ✦ Hello, eu sou a Letícia.✦
 
 Formanda em Psicologia (com conclusão em 2026) e estudante de Análise e Desenvolvimento de Sistemas.
 
@@ -10,7 +10,7 @@ Este espaço no GitHub é onde registro cada etapa da minha evolução no desenv
 
 ---
 
-### O que estou estudando no momento:
+### ✦ O que estou estudando no momento:
 
 - **HTML5 & CSS3:** Semântica web, acessibilidade e interfaces limpas.
 - **JavaScript (ES6+):** Lógica de programação, manipulação da tela e regras de negócio.
@@ -19,7 +19,7 @@ Este espaço no GitHub é onde registro cada etapa da minha evolução no desenv
 
 ---
 
-### Meu primeiro projetos
+### ✦ Meu primeiro projeto:
 
 #### 🎓 Contador para a Formatura
 Um contador regressivo desenvolvido com HTML, CSS e JavaScript para a minha turma de Psicologia na UniViçosa. Um exercício prático de criação para atender uma necessidade real dos meus colegas.
