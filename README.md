@@ -1,4 +1,4 @@
-# ✦ Hello, eu sou a Letícia.✦
+# ✦  Hello, eu sou a Letícia! ✦
 
 Formanda em Psicologia (com conclusão em 2026) e estudante de Análise e Desenvolvimento de Sistemas.
 
