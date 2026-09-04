@@ -9,7 +9,7 @@ Programar, para mim, é uma forma de organizar pensamentos e transformar ideias 
 
 Este espaço no GitHub é onde registro as etapas da minha evolução no desenvolvimento de software.
 
---- ✦ ---
+---
 
 ### ✦  O que estou estudando no momento:
 
@@ -18,15 +18,14 @@ Este espaço no GitHub é onde registro as etapas da minha evolução no desenvo
 - **UI/UX Design:** Princípios de usabilidade, empatia com o usuário e desenho de interfaces funcionais.
 - **Git & GitHub:** Versionamento, fluxo de trabalho e documentação de projetos.
 
---- ✦ ---
-
+---
 ### ✦  Meu primeiro projeto:
 
 #### 🎓 Contador para a Formatura
 Um contador regressivo desenvolvido com HTML, CSS e JavaScript para a minha turma de Psicologia na UniViçosa. Um exercício prático de criação para atender uma necessidade real.
 - 🔗 [Acessar a página](https://leticiawsa.github.io/turma-2022/)
 
---- ✦ ---
+---
 
 <p align="center">
   <span style="color: #c62828; font-weight: 500; font-style: italic;">
@@ -34,7 +33,7 @@ Um contador regressivo desenvolvido com HTML, CSS e JavaScript para a minha turm
   </span>
 </p>
 
---- ✦ ---
+---
 
 ### ✦  Obrigada por passar por aqui!
 
