@@ -33,3 +33,8 @@ Um contador regressivo desenvolvido com HTML, CSS e JavaScript para a minha turm
     "Não tenho nenhum talento especial. Apenas sou apaixonadamente curioso." — Albert Einstein
   </span>
 </p>
+
+### ✦ Obrigada por passar por aqui!
+
+Este GitHub está só começando.  
+Volte daqui a um tempo para ver o que eu consegui construir. 💜
