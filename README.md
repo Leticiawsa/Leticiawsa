@@ -11,7 +11,7 @@ Este espaço no GitHub é onde registro as etapas da minha evolução no desenvo
 
 ---
 
-### ✦ O que estou estudando no momento:
+### ✦  O que estou estudando no momento:
 
 - **HTML5 & CSS3:** Semântica web, acessibilidade e interfaces limpas.
 - **JavaScript (ES6+):** Lógica de programação, manipulação da tela e regras de negócio.
@@ -20,10 +20,10 @@ Este espaço no GitHub é onde registro as etapas da minha evolução no desenvo
 
 ---
 
-### ✦ Meu primeiro projeto:
+### ✦  Meu primeiro projeto:
 
 #### 🎓 Contador para a Formatura
-Um contador regressivo desenvolvido com HTML, CSS e JavaScript para a minha turma de Psicologia na UniViçosa. Um exercício prático de criação para atender uma necessidade real dos meus colegas.
+Um contador regressivo desenvolvido com HTML, CSS e JavaScript para a minha turma de Psicologia na UniViçosa. Um exercício prático de criação para atender uma necessidade real.
 - 🔗 [Acessar a página](https://leticiawsa.github.io/turma-2022/)
 
 ---
@@ -34,7 +34,9 @@ Um contador regressivo desenvolvido com HTML, CSS e JavaScript para a minha turm
   </span>
 </p>
 
-### ✦ Obrigada por passar por aqui!
+---
+
+### ✦  Obrigada por passar por aqui!
 
 Este GitHub está só começando.  
 Volte daqui a um tempo para ver o que eu consegui construir. 💜
