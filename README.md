@@ -9,7 +9,7 @@ Programar, para mim, é uma forma de organizar pensamentos e transformar ideias 
 
 Este espaço no GitHub é onde registro as etapas da minha evolução no desenvolvimento de software.
 
----
+─── ✦ ───
 
 ### ✦  O que estou estudando no momento:
 
